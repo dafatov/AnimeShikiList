@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bar_sort">Сортировка</string>
+    <string name="sort_name">по имени</string>
+    <string name="sort_score">по оценке</string>
+    <string name="sort_episodes_all">по количеству эпизодов</string>
+    <string name="sort_asc">по возрастанию</string>
+    <string name="sort_desc">по убыванию</string>
+    <string name="sort_separate">Раздельная сортировка</string>
+    <string name="apply">Применить</string>
+    <string name="bar_filter">Фильтр</string>
+    <string name="filter_planned">Запланировано</string>
+    <string name="filter_watching">Смотрю</string>
+    <string name="filter_completed">Просмотрено</string>
+    <string name="filter_onhold">Отложено</string>
+    <string name="filter_dropped">Брошено</string>
+    <string name="filter_rewatching">Пересматриваю</string>
+    <string name="filter_movie">Фильм</string>
+    <string name="filter_special">Спешл</string>
+    <string name="filter_music">Музыка</string>
+    <string name="bar_settings">Настройки</string>
+    <string name="settings_nickname">Ник с шики</string>
+    <string name="bar_close">Закрыть</string>
+</resources>
